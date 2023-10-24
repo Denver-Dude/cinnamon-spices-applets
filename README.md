@@ -4,7 +4,7 @@
 
 This repository hosts all the applets available for the Cinnamon desktop environment.
 
-Users can install spices from https://cinnamon-spices.linuxmint.com, or directly from within Cinnamon -> System Settings.
+Users can install spices from https://cinnamon-spices.linuxmint.com, or directly from within Cinnamon → System Settings.
 
 # Definitions
 
